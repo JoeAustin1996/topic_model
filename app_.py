@@ -12,7 +12,7 @@ from nltk.tokenize import word_tokenize
 nltk.download('stopwords')
 
 # Load the data
-data = pd.read_csv("/Users/joe.austin/Downloads/IndiaMart sector.csv")
+data = pd.read_csv("IndiaMart sector.csv")
 
 # Preprocess the categories column
 def preprocess_text(text):
