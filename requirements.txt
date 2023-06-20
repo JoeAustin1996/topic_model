@@ -1,4 +1,5 @@
 gensim
 scikit-learn
 nltk
+# NLTK resources
 punkt
