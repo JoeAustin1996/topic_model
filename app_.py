@@ -1,3 +1,5 @@
+pip install -r requirements.txt
+
 #!pip install gensim
 import streamlit as st
 import pandas as pd
