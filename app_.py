@@ -1,4 +1,4 @@
-!pip install gensim
+#!pip install gensim
 import streamlit as st
 import pandas as pd
 from gensim.models import LdaModel
